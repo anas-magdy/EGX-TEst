@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\controllers\\brokercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\controllers\\brokercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\service\\brokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\service\\brokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\service\\ibrokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\service\\ibrokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\brokers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\brokers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\dto\\brokerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\dto\\brokerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\models\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\models\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\migrations\\20250717000811_addtablebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\migrations\\20250717000811_addtablebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\migrations\\20250716204451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\migrations\\20250716204451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\migrations\\20250717072941_copyproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\migrations\\20250717072941_copyproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|c:\\users\\anasm\\desktop\\egx\\brokers\\brokers\\migrations\\20250718214857_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCF7DFF-8AD1-40AD-82A3-D3A15524C238}|Brokers\\Brokers.csproj|solutionrelative:brokers\\migrations\\20250718214857_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\models\\User.cs",
+              "RelativeDocumentMoniker": "Brokers\\models\\User.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\models\\User.cs",
+              "RelativeToolTip": "Brokers\\models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:52:16.031Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Brokers\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\UserService.cs",
+              "RelativeToolTip": "Brokers\\Service\\UserService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAawDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:30:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Brokers\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Brokers\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAhwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:42:40.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrokerController.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Controllers\\BrokerController.cs",
+              "RelativeDocumentMoniker": "Brokers\\Controllers\\BrokerController.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Controllers\\BrokerController.cs*",
+              "RelativeToolTip": "Brokers\\Controllers\\BrokerController.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T00:14:57.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrokerService.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\BrokerService.cs",
+              "RelativeDocumentMoniker": "Brokers\\Service\\BrokerService.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\BrokerService.cs",
+              "RelativeToolTip": "Brokers\\Service\\BrokerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T00:12:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250718214857_dbCreate.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250718214857_dbCreate.cs",
+              "RelativeDocumentMoniker": "Brokers\\Migrations\\20250718214857_dbCreate.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250718214857_dbCreate.cs",
+              "RelativeToolTip": "Brokers\\Migrations\\20250718214857_dbCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:48:57.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Brokers\\models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\models\\MyDbContext.cs",
+              "RelativeToolTip": "Brokers\\models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:39:55.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Program.cs",
+              "RelativeDocumentMoniker": "Brokers\\Program.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Program.cs",
+              "RelativeToolTip": "Brokers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:40:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBrokerService.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\IBrokerService.cs",
+              "RelativeDocumentMoniker": "Brokers\\Service\\IBrokerService.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\IBrokerService.cs",
+              "RelativeToolTip": "Brokers\\Service\\IBrokerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T00:13:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Brokers\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Brokers\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:17:19.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "Brokers\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Constants\\Roles.cs",
+              "RelativeToolTip": "Brokers\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:47:10.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAWwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-18T21:27:51.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BrokerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\DTO\\BrokerDTO.cs",
+              "RelativeDocumentMoniker": "Brokers\\DTO\\BrokerDTO.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\DTO\\BrokerDTO.cs",
+              "RelativeToolTip": "Brokers\\DTO\\BrokerDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T00:16:20.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\models\\Broker.cs",
+              "RelativeDocumentMoniker": "Brokers\\models\\Broker.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\models\\Broker.cs",
+              "RelativeToolTip": "Brokers\\models\\Broker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T00:04:10.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\appsettings.json",
+              "RelativeDocumentMoniker": "Brokers\\appsettings.json",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\appsettings.json",
+              "RelativeToolTip": "Brokers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T19:40:08.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Brokers\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\WeatherForecast.cs",
+              "RelativeToolTip": "Brokers\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:26:21.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Brokers.csproj",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Brokers.csproj",
+              "RelativeDocumentMoniker": "Brokers\\Brokers.csproj",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Brokers.csproj",
+              "RelativeToolTip": "Brokers\\Brokers.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T19:40:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Brokers\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Service\\IUserService.cs",
+              "RelativeToolTip": "Brokers\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:22:08.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Brokers\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "Brokers\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:43:42.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250717072941_copyProject.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250717072941_copyProject.cs",
+              "RelativeDocumentMoniker": "Brokers\\Migrations\\20250717072941_copyProject.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250717072941_copyProject.cs",
+              "RelativeToolTip": "Brokers\\Migrations\\20250717072941_copyProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:29:41.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250717000811_addTableBroker.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250717000811_addTableBroker.cs",
+              "RelativeDocumentMoniker": "Brokers\\Migrations\\20250717000811_addTableBroker.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250717000811_addTableBroker.cs",
+              "RelativeToolTip": "Brokers\\Migrations\\20250717000811_addTableBroker.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T00:08:12.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250716204451_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250716204451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Brokers\\Migrations\\20250716204451_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\anasm\\Desktop\\Egx\\Brokers\\Brokers\\Migrations\\20250716204451_InitialCreate.cs",
+              "RelativeToolTip": "Brokers\\Migrations\\20250716204451_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:44:52.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
